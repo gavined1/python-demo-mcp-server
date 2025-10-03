@@ -1,2 +1,9 @@
 requests==2.32.3
 mcp==1.5.0
+bakong-khqr[image]==0.4.15
+flask==3.1.2
+flask-cors==6.0.1
+python-dotenv==1.1.1
+qrcode==7.4.2
+Pillow==10.1.0
+requests==2.31.0a
